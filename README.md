@@ -1,0 +1,2 @@
+# Syslog-messages-to-Azure-Sentinel-w-HA-and-Keepalived-Disaster-Cluster-LoadBalancing-
+I have implemented a solution using HAProxy and Keepalived to ensure high availability for my syslog-ng servers. This setup allows me to send logs from my on-premises environment to Azure. HAProxy manages the load balancing, while Keepalived ensures the failover mechanism, providing a resilient and reliable syslog infrastructure.

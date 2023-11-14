@@ -3,7 +3,7 @@
 
 <body>
 
-  <h1>Syslog Messages to Azure Sentinel with HA and Keepalived (Disaster-Cluster-LoadBalancing)</h1>
+  <h1>Syslog Messages to Azure Sentinel with HA and Keepalived (HighAvailability-LoadBalancing)</h1>
 
   <h2>Overview</h2>
 

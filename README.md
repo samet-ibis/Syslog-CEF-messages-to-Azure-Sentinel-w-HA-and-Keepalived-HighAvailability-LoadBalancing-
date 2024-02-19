@@ -44,7 +44,7 @@
   <img src="https://github.com/t0neex/Syslog-messages-to-Azure-Sentinel-w-HA-and-Keepalived-Disaster-Cluster-LoadBalancing-/assets/100233276/b343b469-13b0-40b3-bfd0-eda34935a520" alt="Syslog-ng Configuration">
 
 <br><br><br>
-🥳<p>That's all! Just send your syslog messages to the Virtual IP of the Keepalived servers, and you will see the messages in the log file on the syslog servers. After you create your custom table at Azure Log Analytics you'll see the messages in a few minutes!</p>🥳
+🥳<p>That's all! Just send your syslog messages to the Virtual IP of the Keepalived servers, and you will see the messages in the log file on the syslog servers. After you create CEF Collector Connector or Syslog from Microsoft Sentinel, you'll see the messages in a few minutes!</p>🥳
 
   <p>Feel free to reach out if you have any questions or need further clarification!</p>
 
